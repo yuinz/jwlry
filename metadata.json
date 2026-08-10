@@ -1,0 +1,6 @@
+{
+  "name": "AURELIA — Haute Joaillerie & Custom Atelier",
+  "description": "Haute Joaillerie & Custom Atelier — High-End Luxury Jewelry Experience with Virtual Viewing, Craftsmanship Stories, and Private Appointments",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
